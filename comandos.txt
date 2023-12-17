@@ -1,0 +1,11 @@
+#Comandos bash#
+    cd- navegar/..- volver atras
+    mkdir- crear directorio
+    rm- borrar/rmdir- borrar directorio
+    code . -crear archivo
+
+#Comandos Git#
+    git status- estado de los archivos
+    git add <file,*.ext,.>- añadir archivo a un stage
+    git commit -m "accion"- añade archivos al commit, listo para enviarlo a la nube
+    
